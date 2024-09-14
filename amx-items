@@ -1,0 +1,43 @@
+
+;; ----- amx-history -----
+(
+ restart-emacs
+ evil-quick-replace
+ consult-ripgrep
+ package-list-packages
+ package-install
+ benchmark-init/show-durations-tabulated
+ consult-grep
+)
+
+;; ----- amx-data -----
+(
+ (benchmark-init/show-durations-tabulated . 17)
+ (dashboard-open . 1)
+ (benchmark-init/show-durations-tree . 2)
+ (calc . 1)
+ (restart-emacs . 218)
+ (all-the-icons-insert . 2)
+ (5x5 . 1)
+ (compile . 1)
+ (shell . 2)
+ (all-the-icons-install-fonts . 1)
+ (package-install . 9)
+ (list-funcs . 2)
+ (gdb . 1)
+ (package-refresh-contents . 1)
+ (eval-buffer . 1)
+ (counsel-grep . 2)
+ (consult-ripgrep . 51)
+ (consult-grep . 25)
+ (nerd-icons-install-fonts . 1)
+ (treesit-auto-install-all . 2)
+ (c-ts-mode . 2)
+ (xref-find-references . 3)
+ (xref-find-definitions . 3)
+ (ff-find-related-file . 2)
+ (xref-go-back . 1)
+ (grep . 5)
+ (package-list-packages . 1)
+ (evil-quick-replace . 1)
+)

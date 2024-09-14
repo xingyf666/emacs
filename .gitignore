@@ -12,6 +12,9 @@
 
 # cache
 .cache
-eln-cache
 .mc-lists.el
+eln-cache
 history
+places
+recentf
+amx-items
